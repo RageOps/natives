@@ -13,3 +13,4 @@ void SET_PED_CAN_SWITCH_WEAPON(Ped ped, BOOL toggle);
 * **ped**: 
 * **toggle**: 
 
+This native disables the use of the targeted player's weapon wheel when **toggle** = false.
